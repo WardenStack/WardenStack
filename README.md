@@ -8,11 +8,11 @@ WardenStack is designed to respect the Dependency Inversion Principle. We provid
 
 Core Principles:
 
-    Modular by Design: No bloated monoliths. Install only the specific features you need.
+- Modular by Design: No bloated monoliths. Install only the specific features you need.
 
-    Domain-First: Use our Abstractions libraries to define contracts in your Core, and keep external dependencies in your Infrastructure.
+- Domain-First: Use our Abstractions libraries to define contracts in your Core, and keep external dependencies in your Infrastructure.
 
-    Standardized: Consistent naming, patterns, and behaviors across all packages.
+- Standardized: Consistent naming, patterns, and behaviors across all packages.
 
 ---
 
